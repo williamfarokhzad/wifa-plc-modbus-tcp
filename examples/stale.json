@@ -1,0 +1,7 @@
+{
+  "transaction": 44,
+  "unit": 255,
+  "start": 10,
+  "quantity": 1,
+  "response_chunks": ["00 2a 00 00 00 05 ff 03 02 01 2c"]
+}
